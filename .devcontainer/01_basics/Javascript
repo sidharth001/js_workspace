@@ -1,0 +1,12 @@
+Constants remain same throughtout the class
+Variables can change anytime inbetween
+There are three ways to declare variable in javascript:
+1. let: this is used as scope issue is not there in it.
+2. var: not recommended
+3. Here without declaring anything variable we can declare but this is not at all recommended.
+Normally we dont use var because there is problem of scope in it. 
+Whenever we used to change any name or anything, it used to change at all the places.
+
+Now in javascript if we left the variable undeclared, then JS considered the variable as undefined LIKE
+let accountState
+
